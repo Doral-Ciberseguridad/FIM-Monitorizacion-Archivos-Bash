@@ -27,8 +27,11 @@ nano 4.FIM_Montitorizacion_archivos.sh
 
 
 También debes de configurar estas variables para configurar el envio de alerta por correo electronico:
+
 correo_electronico_emisor
+
 contrasena_aplicacion
+
 correo_electronico_destinatario
 
 
