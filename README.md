@@ -53,7 +53,9 @@ La primera vez que ejecutes el script, el programa guardara el hash del archivo 
 
 5. Para que el script se ejecute en segundo plano de manera silenciosa debes de añadir esta tarea cron al final del archivo /etc/crontab:
 
+```
 * * * * * root /ruta/absoluta/a/FIM_Montitorizacion_archivos.sh >/dev/null 2>&1
+```
 
 
 
