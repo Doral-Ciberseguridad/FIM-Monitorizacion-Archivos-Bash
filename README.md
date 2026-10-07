@@ -26,6 +26,11 @@ nano 4.FIM_Montitorizacion_archivos.sh
 <img width="645" height="236" alt="image" src="https://github.com/user-attachments/assets/c2aed73c-b4bb-41a0-9844-718be435dc9b" />
 
 
+También debes de configurar estas variables para configurar el envio de alerta por correo electronico:
+correo_electronico_emisor
+contrasena_aplicacion
+correo_electronico_destinatario
+
 
 
 4. Dale permisos de ejecución y lanza el script ejecutando en tu terminal:
