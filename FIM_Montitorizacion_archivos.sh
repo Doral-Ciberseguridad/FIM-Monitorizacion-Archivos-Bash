@@ -34,9 +34,9 @@ if [ ! -f "$CONFIG_FILE" ] || [ "$recurso_monitorizar" != "$recurso_nuevo" ]; th
         exit 1
     fi 
     
-    correo_electronico_emisor="adoral296@gmail.com"
-    contrasena_aplicacion="atkm dcgz bfgn zopv"
-    correo_electronico_destinatario="adoral296@gmail.com"
+    correo_electronico_emisor="INTRODUCE_TU_CORREO_EMISOR"
+    contrasena_aplicacion="INTRODUCE_CONTRASENA_APLICACION_EMISOR"
+    correo_electronico_destinatario="INTRODUCE_TU_CORREO_RECEPTOR"
     
     # Guardo los datos iniciales en el archivo de configuración
     echo "recurso_monitorizar=\"$recurso_monitorizar\"" > "$CONFIG_FILE"
