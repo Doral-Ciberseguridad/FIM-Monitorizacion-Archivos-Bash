@@ -9,7 +9,7 @@ git clone https://github.com/Doral-Ciberseguridad/FIM-Monitorizacion-Archivos-Ba
 
 
 
-2. Instala las dependencias necesarias o asegúrate de contar con cURL y coreutils ejecutando en tu terminal:
+2. Instala las dependencias necesarias:
 
 ```
 sudo apt update && sudo apt install curl coreutils
